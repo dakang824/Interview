@@ -2,6 +2,7 @@ module.exports = {
   "title": "前端搬运工",
   "description": "我们不生成代码,我们只是代码搬运工.",
   "dest": "public",
+  "base":"./",
   "head": [
     [
       "link",
