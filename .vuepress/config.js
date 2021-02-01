@@ -76,6 +76,12 @@ module.exports = {
           "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: "https://vuepress-theme-reco.recoluan.com",
       },
+      {
+        title: "酷玩乖乖",
+        desc: "前端集锦",
+        avatar: "https://www.kwgg2020.com/images/kwgg.png",
+        link: "https://www.kwgg2020.com/",
+      },
     ],
     logo: "/logo.png",
     search: true,
