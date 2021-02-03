@@ -83,6 +83,7 @@ module.exports = {
         link: "https://www.kwgg2020.com/",
       },
     ],
+    codeTheme: "funky",
     logo: "/logo.png",
     search: true,
     mode: "dark",
